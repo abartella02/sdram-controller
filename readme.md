@@ -5,9 +5,9 @@
   - Controller allows for reading and writing data to SDRAM chip via driver
 
 ## Contributors
-Kareem Shabaka <br/>
+[Kareem Shabaka][kareem] <br/>
 Alex Bartella
 
 [quartus]: https://www.intel.ca/content/www/ca/en/products/details/fpga/development-tools/quartus-prime.html
 [verilog]: https://verilogguide.readthedocs.io/en/latest/
-
+[kareem]: https://github.com/kareemshabaka
